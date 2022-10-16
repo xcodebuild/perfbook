@@ -2,7 +2,7 @@
 
 本仓库为《前端性能揭秘》的勘误仓库，欢迎有问题在 `issue` 区讨论，或通过 Pull Request 贡献，或者加入读者群。
 
-![4371665910372_ pic](https://user-images.githubusercontent.com/5436704/196026960-4e56539d-5e7c-485e-8cb9-becd387c09c3.jpg)
+![4371665910372_ pic (1)](https://user-images.githubusercontent.com/5436704/196026983-8d514b4c-2e24-46cc-aa7d-c88fb0ff21e1.jpg)
 
 ## 购买链接
 
