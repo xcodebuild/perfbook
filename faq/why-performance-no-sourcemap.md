@@ -22,3 +22,5 @@ Chrome 106 中，在 console 中能够跳转到压缩后的代码，但是通过
 <a target="_blank" href="../faq/2022-10-18-21-26-47.png">
     <img src="../faq/2022-10-18-21-26-47.png" style="width: 400px;"/>
 </a>
+
+前往 [https://www.google.com/chrome/canary/](https://www.google.com/chrome/canary/) 下载 Chrome Canary。
