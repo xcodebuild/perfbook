@@ -6,7 +6,7 @@
 
 项目仓库：https://github.com/xcodebuild/perfbook
 
-站点地址：https://xcodebuild.github.io/perfbook
+站点地址：http://perfbook.xuan.at/
 
 ## 购买链接
 
