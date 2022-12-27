@@ -19,6 +19,8 @@
 
 - 157页 第2行 “If-Modified-Since/Last-Modified” 文本格式应该是小标题，不是代码，此处应与上一个小标题 “If-None-Match/ETag” （156页 倒数第8行）文本格式保持一致。
 
+- 151页 图11-2 上方文字倒数第4行 “content-encoding：作为 Request Header 让服务器端表明传输内容的解压缩……”，Request Header应当为Response Header
+
 
 ### 已在第一次重印，第二次印刷（1-02）中修正
 
